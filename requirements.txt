@@ -1,0 +1,5 @@
+pytelegrambotapi==3.6.6
+flask
+mysql-connector
+docxtpl==0.5.17
+num2words
